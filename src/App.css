@@ -330,7 +330,7 @@ button:active {
 }
 
 .typing-text span::before {
-    content: 'software Developer';
+    content: 'Developer';
     color: var(--main-color);
     animation: words 20s infinite;
 }
